@@ -9,7 +9,7 @@ The project setup is documented in [project_setup.md](project_setup.md). Feel fr
 To install financial_tracker from GitHub repository, do:
 
 ```console
-git clone https://github.com/ZDDduesseldorf/financial_tracker.git
+git clone https://github.com/adhamarif/financial_tracker.git
 cd financial_tracker
 python3 -m pip install .
 ```
